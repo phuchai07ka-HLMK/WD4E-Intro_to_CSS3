@@ -1,0 +1,52 @@
+
+/* CSS Week 1 Homework */
+
+/* Body */
+body {
+    background-color: #B3B3B3;
+    font-family: Arial, "Times New Roman", serif;
+    font-size: 125%;
+}
+
+/* Header */
+header {
+    background-color: #666666;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background-color: #004080;
+    font-variant: small-caps;
+    font-family: Arial, "Times New Roman", serif;
+    font-size: 150%;
+}
+
+/* Main */
+main {
+    background-color: #FFFFFF;
+    font-size: 100%;
+}
+
+/* Footer */
+footer {
+    background-color: #666666;
+}
+
+/* List items */
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+/* Heading */
+h1 {
+    text-align: center;
+    font-family: Arial, "Times New Roman", serif;
+    color: #FFFFFF;
+}
+
+/* Paragraph */
+p {
+    line-height: 1.6;
+}
